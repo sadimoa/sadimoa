@@ -4,7 +4,7 @@
 <h3 align="center">A Frontend Developer</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadimoa&label=Profile%20views&color=0e75b6&style=flat" alt="sadimoa" /> </p>
 
 - 🌱 I’m currently learning **Nodejs**
 
