@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sadia</h1>
 <h3 align="center">A Frontend Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="center" alt="coding" width="400" src="https://media1.giphy.com/media/1j15JTkU2LZl1tBK/200w.gif?cid=82a1493bed18xlbuoizkimojgd3s35esz8kqt9w2jd5zb4em&ep=v1_gifs_related&rid=200w.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadimoa&label=Profile%20views&color=0e75b6&style=flat" alt="sadimoa" /> </p>
 
