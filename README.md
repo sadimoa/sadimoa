@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJs & Typescript**
 
-- 💬 Ask me anything about ** Mern Stack**
+- 💬 Ask me anything about **Mern Stack**
 
 - 📫 How to reach me **sadimoa06.gmail.com**
 <br> <br>
