@@ -1,7 +1,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Sadia</h1>
-<h3 align="center">A Frontend Developer</h3>
+<h3 align="center">
+In the digital realm, I'm a MERN stack artisan, sculpting seamless user experiences and robust server systems. With an eye for detail and a collaborative spirit, I merge creativity with precision. Constantly evolving, I stay ahead of industry trends, driven by a passion for pushing boundaries and shaping the future of web development.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadimoa&label=Profile%20views&color=0e75b6&style=flat" alt="sadimoa" /> </p>
