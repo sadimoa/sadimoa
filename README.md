@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=sadimoa&label=Profile%20views&color=0e75b6&style=flat" alt="sadimoa" />
 </p>
 
-- 🌱 I’m currently learning **NextJs & Typescript**
+- 🌱 I’m currently learning **NextJs**
 - 💬 Ask me anything about **MERN Stack**
 - 📫 How to reach me **sadimoa06.gmail.com**
 
