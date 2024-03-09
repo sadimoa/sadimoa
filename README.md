@@ -23,14 +23,4 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" class="inline-block bg-green-500 text-white rounded-lg px-2 py-1 hover:bg-green-700 transition duration-300">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" class="w-10 h-10"/>
 </a>
-<a href="https://www.sqltutorial.org/" target="_blank" rel="noreferrer" class="inline-block bg-gray-500 text-white rounded-lg px-2 py-1 hover:bg-gray-700 transition duration-300">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="SQL" width="40" height="40" class="w-10 h-10"/>
-</a>
-
-
-
-
-
-
-
 </p>
