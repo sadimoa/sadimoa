@@ -24,9 +24,11 @@
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
 </a>
-<a href="https://https://tailwindcss.com/" target="_blank" rel="noreferrer" class="inline-block bg-blue-500 text-white rounded-lg px-2 py-1 hover:bg-blue-700 transition duration-300">
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" class="inline-block bg-blue-500 text-white rounded-lg px-2 py-1 hover:bg-blue-700 transition duration-300">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg" alt="tailwind" width="40" height="40" class="w-10 h-10"/>
 </a>
+
 
 
 
