@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadia</h1> 
-<p>As a MERN stack developer, I craft seamless user experiences and sturdy server systems. With keen attention to detail and a collaborative spirit, I thrive on innovation and continuous learning, shaping the future of web development.</p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadimoa&label=Profile%20views&color=0e75b6&style=flat" alt="sadimoa" /> </p> 
+<p>As a MERN stack developer, I craft seamless user experiences and sturdy server systems. With keen attention to detail and a collaborative spirit, I thrive on innovation and continuous learning, shaping the future of web development.</p> <p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=sadimoa&label=Profile%20views&color=0e75b6&style=flat" alt="sadimoa" />
+</p> 
 - 🌱 I’m currently learning **NextJs**
 - 💬 Ask me anything about **Mern Stack** 
 - 📫 How to reach me **sadimoa06.gmail.com**<br> <br> 
